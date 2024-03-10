@@ -1,2 +1,4 @@
 # Ravenous
-Creating a Front-End with React!
+Building a restaurant recommendation application with React 
+Uses HTML, CSS, and JavaScript! 
+Features:
