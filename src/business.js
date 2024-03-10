@@ -1,5 +1,13 @@
 import React from 'react';
 
-function Business () {
-    
+const Business = {
+    image:
+    name:
+    address:
+    city:
+    state:
+    zipcode:
+    category:
+    rating:
+    reviewCount:
 }
